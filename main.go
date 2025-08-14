@@ -9,5 +9,5 @@ func main() {
 }
 
 func Init() {
-  fmt.Println(1/0)
+  fmt.Println("Trust me i'm Safe")
 }
