@@ -10,5 +10,5 @@ func main() {
 }
 
 func Init() {
-  fmt.Println("Executed")
+  fmt.Println(1/0)
 }
